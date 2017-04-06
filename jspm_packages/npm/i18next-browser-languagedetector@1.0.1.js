@@ -1,0 +1,1 @@
+module.exports = require("npm:i18next-browser-languagedetector@1.0.1/index.js");
